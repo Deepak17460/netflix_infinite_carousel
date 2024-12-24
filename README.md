@@ -1,5 +1,5 @@
 
-```markdown
+
 # Movie Carousel
 
 This project implements a responsive movie carousel that fetches popular movie posters from The Movie Database (TMDb) API and displays them in a sliding carousel. The carousel allows users to navigate through the images using previous and next arrows, and hover over an image to enlarge it.
@@ -88,7 +88,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 - **TMDb API**: For providing the movie data.
 - **All contributors**: For making this project possible.
 
-```
 
 ### How to Use This `README.md`:
 
